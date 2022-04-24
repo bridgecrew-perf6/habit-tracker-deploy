@@ -1,4 +1,4 @@
 {
   "fireBaseEndpoint": "https://habit-tracker-cb7ea-default-rtdb.europe-west1.firebasedatabase.app/",
-  "mongoEndpoint": "habit-tracker-deploy.vercel.app"
+  "mongoEndpoint": "https://habit-tracker-deploy.vercel.app/"
 }
