@@ -15,11 +15,12 @@
       "use": "@vercel/node"
     },
     {
-      "src": "client/build/**",
+      "src": "client/build/*.html",
       "use": "@vercel/static"
     }
   ],
-  "rewrites": [{
+  "rewrites": [
+    {
       "source": "/api/(.*)",
       "destination": "server/app.js"
     },
