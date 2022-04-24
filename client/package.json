@@ -1,6 +1,6 @@
 {
   "name": "habit-tracker",
-  "homepage": ".",
+  "homepage": "https://habit-tracker-deploy.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
