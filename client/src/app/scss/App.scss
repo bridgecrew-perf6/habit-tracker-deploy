@@ -1,0 +1,21 @@
+// $primary: #7900f2;
+// $secondary: #ae00ec;
+// $info: #5595ff;
+// $warning: #b2b281;
+// $danger: #d3330d;
+// $light: #aee0cc;
+// $dark: #17121b;
+
+// $custom-theme-colors: (
+//   "green-light": #00e58f,
+//   "green-dark": #00d049,
+//   "gray": #5b7e83,
+//   "light-blue": #77e7fc,
+//   "brightdark": #1c1b25);
+
+
+// Remove blue autofill in textfield
+.css-p51h6s-MuiInputBase-input-MuiOutlinedInput-input:-webkit-autofill {
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "67rdca3eeb7f6fgeed471815",
+    "name": "Даниил Ткачук",
+    "email": "daniil.tkachuk@gmail.com",
+    "password": "Test1234", 
+    "image": "",
+    "habits": [
+      "67rdca3eeb7f6fgeed471198",
+      "67rdca3eeb7f6fgeed471102",
+      "67rdca3eeb7f6fgeed471100"
+    ],
+    "perfectDays": 20,
+    "bestStreak": 555,
+    "currentStreak": 3
+  }
+]

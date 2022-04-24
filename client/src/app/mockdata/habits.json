@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "67rdca3eeb7f6fgeed471198",
+    "userId": "67rdca3eeb7f6fgeed471815",
+    "name": "Медитация",
+    "icon": "meditation",
+    "color": "purple",
+    "daytime": ["morning", "evening"],
+    "bestStreak": 4,
+    "currentStreak": 4,
+    "conpletedOn": [
+      "2022-02-16",
+      "2022-02-17",
+      "2022-02-18",
+      "2022-02-19"
+    ]
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471102",
+    "userId": "67rdca3eeb7f6fgeed471815",
+    "name": "Зарядка",
+    "icon": "running",
+    "color": "green",
+    "daytime": ["morning"],
+    "bestStreak": 4,
+    "currentStreak": 4,
+    "conpletedOn": [
+      "2022-02-16",
+      "2022-02-17",
+      "2022-02-18",
+      "2022-02-19"
+    ]
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471100",
+    "userId": "67rdca3eeb7f6fgeed471815",
+    "name": "Визуализация",
+    "icon": "eye",
+    "color": "purple",
+    "daytime": ["morning"],
+    "bestStreak": 4,
+    "currentStreak": 4,
+    "conpletedOn": [
+      "2022-02-16",
+      "2022-02-17",
+      "2022-02-18",
+      "2022-02-19"
+    ]
+  }
+]
