@@ -31,14 +31,16 @@
     }
   ],
   "rewrites": [{
-        "source": "/api/(.*)",
-        "destination": "server/app.js"
-      },
-      {
-        "source": "/",
-        "destination": "client/build/index.html"
-      },
-      {
-        "source": "/(.+)",
-        "destination": "client/build/$1"
-      }
+      "source": "/api/(.*)",
+      "destination": "server/app.js"
+    },
+    {
+      "source": "/",
+      "destination": "client/build/index.html"
+    },
+    {
+      "source": "/(.+)",
+      "destination": "client/build/$1"
+    }
+  ]
+}
