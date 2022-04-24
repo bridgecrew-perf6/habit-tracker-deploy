@@ -30,7 +30,7 @@
     },
     {
       "source": "/(.+)",
-      "destination": "/"
+      "destination": "client/build/index.html"
     }
   ]
 }
