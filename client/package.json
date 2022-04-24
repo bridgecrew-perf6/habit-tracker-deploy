@@ -1,6 +1,6 @@
 {
   "name": "habit-tracker",
-  "homepage": "habit-tracker-taupe.vercel.app",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
